@@ -1,0 +1,16 @@
+{
+  "schema": "F114_RDX_CANONICAL_INDEX_CANARY_V1",
+  "status": "PASS",
+  "farm_id": 114,
+  "canonical_count": 2,
+  "exact_duplicate_count": 1,
+  "conflict_probe_detected": true,
+  "unexpected_conflicts": [],
+  "canonical_keys": [
+    "RDX-CANARY-INDEX::CLAIM-001",
+    "RDX-CANARY-INDEX::CLAIM-002"
+  ],
+  "training_executed": false,
+  "claim_ceiling": "CANONICAL_ID_INDEX_AND_CONFLICT_DETECTION_CANARY_ONLY",
+  "receipt_sha256": "37ba91639013b8b1f557b95da72243123a35767997b6718424fb9526f12deace"
+}
